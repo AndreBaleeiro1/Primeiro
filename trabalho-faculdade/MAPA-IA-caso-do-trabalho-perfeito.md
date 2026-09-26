@@ -16,13 +16,13 @@
 Ferramentas de IA generativa podem inventar citações, autores e obras. Esse fenômeno é chamado de "alucinação". Citar fontes que não existem tira a credibilidade do trabalho e impede que o leitor confira as informações. Em ambiente acadêmico, isso pode ser visto como fraude.
 
 **2. Informações sem comprovação científica.**
-O conhecimento científico se diferencia do senso comum por ser sistemático, verificável e baseado em evidências. Afirmações sem comprovação tornam o trabalho frágil, podem espalhar dados falsos e levar a conclusões erradas. 📘 *(Se o livro tiver a comparação entre tipos de conhecimento, cite aqui.)*
+O conhecimento científico se diferencia do senso comum por ser sistemático, verificável e baseado em evidências. Afirmações sem comprovação tornam o trabalho frágil, podem espalhar dados falsos e levar a conclusões erradas. Como aponta o livro da disciplina, construir conhecimento exige "desconfiança em relação às informações cuja fonte não seja clara" (SUHR, Tema 1).
 
 **3. Opiniões sem fundamentação.**
 Um texto acadêmico precisa sustentar seus argumentos com autores, pesquisas e dados. Opinião sem base teórica transforma o trabalho em achismo e compromete a objetividade e o rigor que se espera da produção científica.
 
 **4. Falta de autoria e de compreensão do conteúdo (ausência de pensamento crítico).**
-Pedro não pesquisou, não leu e não refletiu sobre o tema, tanto que não conseguiu explicar o que entregou. Sem essa participação ativa não há aprendizagem, e a autoria intelectual fica comprometida: o trabalho deixa de mostrar o que o estudante sabe e a atividade perde seu objetivo formativo.
+Pedro não pesquisou, não leu e não refletiu sobre o tema, tanto que não conseguiu explicar o que entregou. Sem essa participação ativa não há aprendizagem, e a autoria intelectual fica comprometida: o trabalho deixa de mostrar o que o estudante sabe e a atividade perde seu objetivo formativo. O livro da disciplina diferencia informação de conhecimento: o conhecimento é "fruto de ação mental (cognitiva) do sujeito sobre as informações a que tem acesso" (SUHR, Tema 1). Pedro teve acesso à informação gerada pela IA, mas não construiu conhecimento.
 
 ---
 
@@ -48,7 +48,7 @@ O texto deve ser escrito pelo próprio estudante, com suas análises e conclusõ
 
 ## Questão 4 – Como pretendo usar a IA (⚠️ personalizar)
 
-Pretendo utilizar a Inteligência Artificial como uma ferramenta de apoio aos estudos, e não como substituta do meu próprio raciocínio. Vou usá-la para esclarecer conceitos que eu não compreender nas leituras, criar resumos e questões de revisão para as provas, organizar cronogramas de estudo e revisar a clareza dos meus textos. [📝 *Exemplo pessoal: em qual disciplina/situação do seu curso de gestão você usaria?*] Porém, sempre vou conferir as informações em fontes confiáveis, como o livro da disciplina e artigos científicos, porque, como estudado, a IA pode gerar informações incorretas e até referências inexistentes. [📘 *cite um conceito das Unidades 2/3*] Também pretendo manter a autoria dos meus trabalhos e ser transparente sobre o uso dessas ferramentas, pois o objetivo da formação universitária é desenvolver pensamento crítico e competências que eu vou precisar como profissional. O caso de Pedro mostra que usar a IA sem reflexão pode gerar um bom resultado aparente, mas sem aprendizagem real.
+Pretendo utilizar a Inteligência Artificial como uma ferramenta de apoio aos estudos, e não como substituta do meu próprio raciocínio. Vou usá-la para esclarecer conceitos que eu não compreender nas leituras, criar resumos e questões de revisão para as provas, organizar cronogramas de estudo e revisar a clareza dos meus textos. [📝 *Exemplo pessoal: em qual disciplina/situação do seu curso de gestão você usaria?*] Porém, sempre vou conferir as informações em fontes confiáveis, como o livro da disciplina e artigos científicos, porque, como estudado, a IA pode gerar informações incorretas e até referências inexistentes. Como destacam Dziekaniak e Rover (2011), citados no livro da disciplina, a sociedade do conhecimento exige uma formação crítica, capaz de "analisar a fidedignidade da informação" e de passar "de mero consumidor a possível produtor de informação". Também quero seguir o pilar "aprender a conhecer", da Unesco (DELORS, 2010), usando a IA para aprender a aprender, e não para evitar o esforço de aprender. [📘 *se possível, acrescente um conceito das Unidades 2/3*] Também pretendo manter a autoria dos meus trabalhos e ser transparente sobre o uso dessas ferramentas, pois o objetivo da formação universitária é desenvolver pensamento crítico e competências que eu vou precisar como profissional. O caso de Pedro mostra que usar a IA sem reflexão pode gerar um bom resultado aparente, mas sem aprendizagem real.
 
 ---
 
@@ -56,4 +56,7 @@ Pretendo utilizar a Inteligência Artificial como uma ferramenta de apoio aos es
 
 - UNESCO. *Guidance for generative AI in education and research*. Paris: UNESCO, 2023.
 - LAKATOS, E. M.; MARCONI, M. A. *Fundamentos de metodologia científica*. São Paulo: Atlas. (Conferir o ano da edição usada.)
-- Livro da disciplina – Unidades 2 e 3. (Incluir a referência completa.)
+- SUHR, I. R. F. Competências e habilidades para aprender, inovar e cooperar. In: *Produção do Conhecimento Científico, Tecnológico e Disrupção*. Maringá: Unicesumar. (Tema 1. Conferir o ano no livro.)
+- DZIEKANIAK, G.; ROVER, A. Sociedade do Conhecimento: características, demandas e requisitos. *DataGramaZero – Revista de Informação*, v. 12, n. 5, out. 2011. (Citado no livro, Tema 1.)
+- DELORS, J. (coord.). *Educação: um tesouro a descobrir*. Relatório para a Unesco. 2010. (Citado no livro, Tema 1.)
+- Livro da disciplina – Unidades 2 e 3 (Temas 4 a 9). ⚠️ Ainda não lido: o Drive só entregou a parte dos Temas 1 e 2.
